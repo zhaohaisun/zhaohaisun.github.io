@@ -22,9 +22,9 @@ repository               : "zhaohaisun/zhaohaisun.github.io"
 author:
   # Biographic information
   avatar           : "szh.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhaohai Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "undergraduate student at CSEE, Hunan University"
   location         : "Changsha"
   employer         : "Hunan University"
   uri              : # URL
