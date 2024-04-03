@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## Bio
+
 I am an undergraduate student at CSEE, Hunan University.
 
 Before commencing my PhD, I completed [Part III](https://www.maths.cam.ac.uk/postgrad/part-iii/current) at [St John's College](https://www.joh.cam.ac.uk/), University of Cambridge, where my focus was on Mathematical Statistics and optimization. Prior to this, I received my Bachelor degree in [Mathematics with Statistcis](https://www.imperial.ac.uk/study/ug/courses/mathematics-department/mathematics-with-statistics-bsc/) from Imperial College London in 2019.
