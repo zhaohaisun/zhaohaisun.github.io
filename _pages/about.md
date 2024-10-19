@@ -9,4 +9,4 @@ redirect_from:
 
 ## Bio
 
-I am an undergraduate student at CSEE, Hunan University.
+I am an undergraduate student at CSEE, Hunan University. And now a prospective graduate student at SCSE, Beihang University.
