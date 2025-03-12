@@ -38,12 +38,6 @@ redirect_from:
 * 湖南大学二等奖学金(10%), 2022年12月
 * 湖南大学ACM竞赛一等奖, 2023年5月
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 IT 技能
 ======
 * 编程语言: C/C++ > Python > Java、CCF-CSP：270分（全国前6.86%）
